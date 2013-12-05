@@ -18,7 +18,11 @@
   </div>
 <% else %>
   <div class="center hero-unit">
+<<<<<<< HEAD
+    <h1>Welcome to Sample App!</h1>
+=======
     <h1>Welcome to SampleApp!</h1>
+>>>>>>> following-users
 
     <h2>
       This is the home page for the

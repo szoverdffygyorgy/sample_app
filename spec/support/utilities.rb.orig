@@ -1,5 +1,9 @@
 def full_title(page_title)
+<<<<<<< HEAD
+  base_title = "Sample App"
+=======
   base_title = "SampleApp"
+>>>>>>> following-users
   if page_title.empty?
     base_title
   else
